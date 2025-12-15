@@ -1,5 +1,5 @@
 # Gupta-et-al-2025-code
-Python Scripts for 2-nt Overhang Analysis and figure generation
+Python Scripts for 2-nt Overhang Analysis and Figure Generation
 
 Usage: python3 make_dicer2_figure.py [Name].txt (txt file with siRNAs in HiSeq format) --out-prefix results/dicer2
 Writes:
